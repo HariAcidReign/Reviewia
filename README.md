@@ -1,4 +1,7 @@
-# Reviewia - Find your next getaway
+<p align="center">
+  <a href="https://github.com/HariAcidReign/Reviewia">
+    <img src="https://user-images.githubusercontent.com/58134096/103447349-1c702a00-4cb0-11eb-900a-8fecaed0e760.png" alt="Logo" width="400" height="300">
+  </a>
 
 This site is made using HTML, CSS, PHP, MYSQL, and a little bit of JS. Created as part of the college DBMS project. Play around with the  website [here](https://reviewiaa.000webhostapp.com/main.php)
 
